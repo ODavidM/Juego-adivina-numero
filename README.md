@@ -1,6 +1,9 @@
-<p>
+<h1>
   Este es un juego usando
-  html
-  css
-  Java Script  
-</p>
+</h1>
+<ul>
+  <li>Html</li>
+  <li>Css</li>
+  <li>Java Script  </li>
+</ul>
+  
