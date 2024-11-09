@@ -1,5 +1,5 @@
 <h1>
-  Este es un juego usando
+  Juego construido con:
 </h1>
 <ul>
   <li>Html</li>
